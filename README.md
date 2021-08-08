@@ -1,16 +1,13 @@
-### Hi there 👋
+## front-end developer from Moscow
 
-<!--
-**IvanBogdanovich/IvanBogdanovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Love these things:
 
-Here are some ideas to get you started:
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I am writing in russian to the [channel](https://t.me/protovich) in a telegram
+
+### Contacs:
+[![@ivanbogdanovich](https://img.shields.io/static/v1?message=@ivanbogdanovich&logo=telegram&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)](https://t.me/ivanbogdanovich)
