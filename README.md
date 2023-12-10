@@ -1,4 +1,4 @@
-## front-end developer from Moscow
+## front-end developer
 
 ### Love these things:
 
